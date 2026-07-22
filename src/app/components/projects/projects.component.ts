@@ -62,7 +62,7 @@ export class ProjectsComponent {
       description:
         "Auction platform backend on .NET — real-time bidding, user management. SignalR for live updates.",
       tech: ['C#', '.NET',"Next.js","Kubernetes"],
-      links: [{ label: 'GitHub ↗', url: 'https://github.com/Thanaphat-Boonrak/Auction_Microservice_Dotnet' }],
+      links: [{ label: 'GitHub ↗', url: 'https://github.com/Thanaphat-Boonrak/Auction_Microservice_Dotnet'  , } , {label: 'Demo with deployment on Kubernetes ↗', url: 'https://app.thanaphat2005.store/' }],
     },
   ];
 }
