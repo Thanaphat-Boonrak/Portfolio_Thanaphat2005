@@ -46,7 +46,7 @@ export class ProjectsComponent {
     {
       name: 'TinderInspire (.NET)',
       description:
-        'Swipe/matching-style app built with C# and .NET.  SignalR for chat update',
+        'Matching app built with C# and .NET.  SignalR for chat update',
       tech: ['C#', '.NET',"Angular"],
       links: [{ label: 'GitHub ↗', url: 'https://github.com/Thanaphat-Boonrak/TinderInspire_.Net' }],
     },
